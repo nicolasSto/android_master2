@@ -236,7 +236,7 @@ public class MainActivity extends AppCompatActivity {
                     myClientBluetooth.sendString("5");
                     break;
                 case 6:
-                    myClientBluetooth.sendString("5");
+                    myClientBluetooth.sendString("6");
                     break;
             }
         }
