@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "2286484553",
+    "firebase_url": "https://bluetoothraspberry.firebaseio.com",
+    "project_id": "bluetoothraspberry",
+    "storage_bucket": "bluetoothraspberry.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2286484553:android:c69f7034aed97eb8",
+        "android_client_info": {
+          "package_name": "com.example.nico.bluetooth_raspberry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2286484553-5g5adijo2rj3c4m8089505bdcbmiraf1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nico.bluetooth_raspberry",
+            "certificate_hash": "94ddaff8c30337a4f31641fe2dbb3d304043095c"
+          }
+        },
+        {
+          "client_id": "2286484553-6eh05ocurv7h1bgkpa9jip8gddgrcol6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3TtH89wRRIsHk83aJE1UqBkMxUndAeRI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2286484553-6eh05ocurv7h1bgkpa9jip8gddgrcol6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
